@@ -1,0 +1,3 @@
+API KEY = a5735746f2864a5bb59123121221605
+
+API link = http://api.weatherapi.com/v1/current.json?key=a5735746f2864a5bb59123121221605&q=London&aqi=no
